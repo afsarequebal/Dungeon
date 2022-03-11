@@ -1,0 +1,115 @@
+You have Arrow, Arrow, Arrow
+You found faint smell of monster
+You are in a cave
+Doors lead to the E,  S,  N
+You find SAPPHIRE, RUBY, DIAMOND here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+E
+
+
+You have Arrow, Arrow, Arrow
+You are in a tunnel
+Doors lead to the W,  S
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+S
+
+
+You have Arrow, Arrow, Arrow
+You are in a tunnel
+Doors lead to the S,  N
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+S
+
+
+You have Arrow, Arrow, Arrow
+You found faint smell of monster
+You are in a cave
+Doors lead to the W,  N,  S
+You find SAPPHIRE, RUBY, DIAMOND here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+S
+
+
+You have Arrow, Arrow, Arrow
+You smell monster in nearby cell
+You are in a cave
+Doors lead to the E,  S,  W,  N
+You find SAPPHIRE, RUBY, RUBY here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+S
+
+
+You have Arrow, Arrow, Arrow
+You found faint smell of monster
+You are in a tunnel
+Doors lead to the N,  E
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+E
+
+
+You have Arrow, Arrow, Arrow
+You smell monster in nearby cell
+You are in a cave
+Doors lead to the N,  E,  S,  W
+You find RUBY, SAPPHIRE, SAPPHIRE here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+S
+
+
+You have Arrow, Arrow, Arrow
+You smell monster in nearby cell
+You are in a tunnel
+Doors lead to the S,  N
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+S
+No. of caves (1-5)?
+1
+Where to?
+S
+You hear a slight howl
+
+You have Arrow, Arrow
+You smell monster in nearby cell
+You are in a tunnel
+Doors lead to the S,  N
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+S
+No. of caves (1-5)?
+1
+Where to?
+S
+You hear a great howl, seems monster is dead.
+
+You have Arrow
+You found faint smell of monster
+You are in a tunnel
+Doors lead to the S,  N
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+S
+
+
+End location reached
+Game is over! Player wins.

@@ -1,0 +1,190 @@
+
+You have Arrow, Arrow, Arrow
+You are in a cave
+Doors lead to the E,  W,  S
+You find RUBY, DIAMOND, DIAMOND here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+W
+
+
+You have Arrow, Arrow, Arrow
+You are in a cave
+Doors lead to the W,  N,  S,  E
+You find DIAMOND, DIAMOND, RUBY here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+S
+
+
+You have Arrow, Arrow, Arrow
+You are in a cave
+Doors lead to the S,  W,  E,  N
+You find SAPPHIRE, RUBY, SAPPHIRE here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+P
+What ?
+RUBY
+
+
+You have Arrow, Arrow, Arrow
+You have RUBY
+You are in a cave
+Doors lead to the S,  W,  E,  N
+You find SAPPHIRE, SAPPHIRE here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+P
+What ?
+RUBY
+Please choose correct item. Try again
+DIAMOND
+Please choose correct item. Try again
+SAPPHIRE
+
+
+You have Arrow, Arrow, Arrow
+You have RUBY, SAPPHIRE
+You are in a cave
+Doors lead to the S,  W,  E,  N
+You find SAPPHIRE here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+P
+What ?
+ARROW
+
+
+You have Arrow, Arrow, Arrow, arrow
+You have RUBY, SAPPHIRE
+You are in a cave
+Doors lead to the S,  W,  E,  N
+You find SAPPHIRE here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+E
+
+
+You have Arrow, Arrow, Arrow, arrow
+You have RUBY, SAPPHIRE
+You are in a cave
+Doors lead to the W,  N,  S
+You find RUBY, RUBY, RUBY here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+S
+
+
+You have Arrow, Arrow, Arrow, arrow
+You have RUBY, SAPPHIRE
+You are in a tunnel
+Doors lead to the S,  N
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+S
+
+
+You have Arrow, Arrow, Arrow, arrow
+You have RUBY, SAPPHIRE
+You are in a cave
+Doors lead to the E,  N,  S
+You find SAPPHIRE, RUBY, SAPPHIRE here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+S
+
+
+You have Arrow, Arrow, Arrow, arrow
+You have RUBY, SAPPHIRE
+You are in a tunnel
+Doors lead to the N,  E
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+P
+What ?
+ARROW
+
+
+You have Arrow, Arrow, Arrow, arrow, arrow
+You have RUBY, SAPPHIRE
+You are in a tunnel
+Doors lead to the N,  E
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+E
+
+
+You have Arrow, Arrow, Arrow, arrow, arrow
+You have RUBY, SAPPHIRE
+You are in a cave
+Doors lead to the S,  E,  N,  W
+You find DIAMOND, DIAMOND, SAPPHIRE here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+
+M
+Where to ?
+S
+
+
+You have Arrow, Arrow, Arrow, arrow, arrow
+You have RUBY, SAPPHIRE
+You are in a cave
+Doors lead to the S,  W,  N,  E
+You find DIAMOND, DIAMOND, DIAMOND here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+
+M
+Where to ?
+S
+
+
+You have Arrow, Arrow, Arrow, arrow, arrow
+You have RUBY, SAPPHIRE
+You are in a cave
+Doors lead to the N
+You find DIAMOND, RUBY, DIAMOND here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+N
+
+
+You have Arrow, Arrow, Arrow, arrow, arrow
+You have RUBY, SAPPHIRE
+You are in a cave
+Doors lead to the S,  W,  N,  E
+You find DIAMOND, DIAMOND, DIAMOND here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+P
+What ?
+DIAMOND
+
+
+You have Arrow, Arrow, Arrow, arrow, arrow
+You have RUBY, SAPPHIRE, DIAMOND
+You are in a cave
+Doors lead to the S,  W,  N,  E
+You find DIAMOND, DIAMOND here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+Q
+Not a valid action. Try again
+Move, Pickup, or Shoot (M-P-S)? 
+q
+Not a valid action. Try again
+Move, Pickup, or Shoot (M-P-S)? 
+

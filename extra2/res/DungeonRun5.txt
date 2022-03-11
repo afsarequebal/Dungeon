@@ -1,0 +1,51 @@
+You have Arrow, Arrow, Arrow
+You smell monster in nearby cell
+You are in a cave
+Doors lead to the W,  N,  S
+Move, Pickup, or Shoot (M-P-S)? 
+M
+Where to ?
+W
+
+
+You have Arrow, Arrow, Arrow
+You found faint smell of monster
+You are in a cave
+Doors lead to the E,  N,  S
+You find RUBY, SAPPHIRE, DIAMOND here
+Move, Pickup, or Shoot (M-P-S)? 
+P
+What ?
+RUBY
+
+
+You have Arrow, Arrow, Arrow
+You have RUBY
+You found faint smell of monster
+You are in a cave
+Doors lead to the E,  N,  S
+You find SAPPHIRE, DIAMOND here
+Move, Pickup, or Shoot (M-P-S)? 
+P
+What ?
+DIAMOND
+
+
+You have Arrow, Arrow, Arrow
+You have RUBY, DIAMOND
+You found faint smell of monster
+You are in a cave
+Doors lead to the E,  N,  S
+You find SAPPHIRE here
+Move, Pickup, or Shoot (M-P-S)? 
+P 
+What ?
+SAPPHIRE
+
+
+You have Arrow, Arrow, Arrow
+You have RUBY, DIAMOND, SAPPHIRE
+You found faint smell of monster
+You are in a cave
+Doors lead to the E,  N,  S
+Move, Pickup, or Shoot (M-P-S)? 

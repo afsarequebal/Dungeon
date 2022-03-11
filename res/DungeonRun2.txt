@@ -1,0 +1,31 @@
+You have Arrow, Arrow, Arrow
+You smell monster in nearby cell
+You are in a cave
+Doors lead to the N,  W,  S
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+S
+No. of caves (1-5)?
+1
+Where to?
+N
+You hear a slight howl
+
+You have Arrow, Arrow
+You smell monster in nearby cell
+You are in a cave
+Doors lead to the N,  W,  S
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+S
+No. of caves (1-5)?
+1
+Where to?
+N
+You hear a great howl, seems monster is dead.
+
+You have Arrow
+You are in a cave
+Doors lead to the N,  W,  S
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 

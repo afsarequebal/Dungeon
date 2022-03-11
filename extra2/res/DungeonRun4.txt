@@ -1,0 +1,16 @@
+You have Arrow, Arrow, Arrow
+You are in a cave
+Doors lead to the W
+You find RUBY, DIAMOND, RUBY here
+You find 1 arrow here
+Move, Pickup, or Shoot (M-P-S)? 
+P
+What ?
+ARROW
+
+
+You have Arrow, Arrow, Arrow, arrow
+You are in a cave
+Doors lead to the W
+You find RUBY, DIAMOND, RUBY here
+Move, Pickup, or Shoot (M-P-S)? 

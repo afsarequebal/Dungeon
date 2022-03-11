@@ -1,0 +1,1402 @@
+One run that shows the player visiting every location in the dungeon in wrapping dungeon
+{0(R, L, U, D, ) & (DIAM0, DIAM1, DIAM2, ) } {1(L, R, U, D, ) & (DIAM3, DIAM4, DIAM5, ) } {2(L, R, U, D, ) & (DIAM6, DIAM7, DIAM8, ) } {3(L, R, U, D, ) & (DIAM9, SAP0, SAP1, ) } {4(L, R, U, D, ) & (SAP2, SAP3, SAP4, ) } {5(L, R, U, D, ) & (SAP5, SAP6, SAP7, ) } {6(L, R, U, D, ) & (SAP8, SAP9, RBS0, ) } {7(L, R, U, D, ) & (RBS1, RBS2, RBS3, ) } {8(L, U, D, ) & (RBS4, RBS5, RBS6, ) } {9(R, U, D, ) & (RBS7, RBS8, RBS9, ) } 
+{10(U, D, ) & () } {11(U, D, ) & () } {12(U, D, ) & () } {13(U, D, ) & () } {14(U, D, ) & () } {15(U, D, ) & () } {16(U, D, ) & () } {17(U, D, ) & () } {18(U, D, ) & () } {19(U, D, ) & () } 
+{20(U, D, ) & () } {21(U, D, ) & () } {22(U, D, ) & () } {23(U, D, ) & () } {24(U, D, ) & () } {25(U, D, ) & () } {26(U, D, ) & () } {27(U, D, ) & () } {28(U, D, ) & () } {29(U, D, ) & () } 
+{30(U, D, ) & () } {31(U, D, ) & () } {32(U, D, ) & () } {33(U, D, ) & () } {34(U, D, ) & () } {35(U, D, ) & () } {36(U, D, ) & () } {37(U, D, ) & () } {38(U, D, ) & () } {39(U, D, ) & () } 
+{40(U, D, ) & () } {41(U, D, ) & () } {42(U, D, ) & () } {43(U, D, ) & () } {44(U, D, ) & () } {45(U, D, ) & () } {46(U, D, ) & () } {47(U, D, ) & () } {48(U, D, ) & () } {49(U, D, ) & () } 
+{50(U, D, ) & () } {51(U, D, ) & () } {52(U, D, ) & () } {53(U, D, ) & () } {54(U, D, ) & () } {55(U, D, ) & () } {56(U, D, ) & () } {57(U, D, ) & () } {58(U, D, ) & () } {59(U, D, ) & () } 
+{60(U, D, ) & () } {61(U, D, ) & () } {62(U, D, ) & () } {63(U, D, ) & () } {64(U, D, ) & () } {65(U, D, ) & () } {66(U, D, ) & () } {67(U, D, ) & () } {68(U, D, ) & () } {69(U, D, ) & () } 
+{70(U, D, ) & () } {71(U, D, ) & () } {72(U, D, ) & () } {73(U, D, ) & () } {74(U, D, ) & () } {75(U, D, ) & () } {76(U, D, ) & () } {77(U, D, ) & () } {78(U, D, ) & () } {79(U, D, ) & () } 
+{80(U, ) & () } {81(U, ) & () } {82(U, ) & () } {83(U, ) & () } {84(U, ) & () } {85(U, ) & () } {86(U, ) & () } {87(U, ) & () } {88(U, ) & () } {89(U, ) & () } 
+{90(D, ) & () } {91(D, ) & () } {92(D, ) & () } {93(D, ) & () } {94(D, ) & () } {95(D, ) & () } {96(D, ) & () } {97(D, ) & () } {98(D, ) & () } {99(D, ) & () } 
+
+
+Start Location : 1, End Location : 99
+Start location : 1
+All player treasures are : 
+All available directions are : L, R, U, D,  
+All locations treasures are :  DIAM3, DIAM4, DIAM5, 
+Direction Taken : D
+Location reached : 11
+
+Start location : 11
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 21
+
+Start location : 21
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 31
+
+Start location : 31
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 41
+
+Start location : 41
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 51
+
+Start location : 51
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 61
+
+Start location : 61
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 71
+
+Start location : 71
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 81
+
+Start location : 81
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 71
+
+Start location : 71
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 61
+
+Start location : 61
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 51
+
+Start location : 51
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 41
+
+Start location : 41
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 31
+
+Start location : 31
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 21
+
+Start location : 21
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 11
+
+Start location : 11
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 1
+
+Start location : 1
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 91
+
+Start location : 91
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 1
+
+Start location : 1
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : R
+Location reached : 2
+
+Start location : 2
+All player treasures are : DIAM3, DIAM4, DIAM5, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  DIAM6, DIAM7, DIAM8, 
+Direction Taken : D
+Location reached : 12
+
+Start location : 12
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 22
+
+Start location : 22
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 32
+
+Start location : 32
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 42
+
+Start location : 42
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 52
+
+Start location : 52
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 62
+
+Start location : 62
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 72
+
+Start location : 72
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 82
+
+Start location : 82
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 72
+
+Start location : 72
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 62
+
+Start location : 62
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 52
+
+Start location : 52
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 42
+
+Start location : 42
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 32
+
+Start location : 32
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 22
+
+Start location : 22
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 12
+
+Start location : 12
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 2
+
+Start location : 2
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 92
+
+Start location : 92
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 2
+
+Start location : 2
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : R
+Location reached : 3
+
+Start location : 3
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  DIAM9, SAP0, SAP1, 
+Direction Taken : D
+Location reached : 13
+
+Start location : 13
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 23
+
+Start location : 23
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 33
+
+Start location : 33
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 43
+
+Start location : 43
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 53
+
+Start location : 53
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 63
+
+Start location : 63
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 73
+
+Start location : 73
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 83
+
+Start location : 83
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 73
+
+Start location : 73
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 63
+
+Start location : 63
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 53
+
+Start location : 53
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 43
+
+Start location : 43
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 33
+
+Start location : 33
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 23
+
+Start location : 23
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 13
+
+Start location : 13
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 3
+
+Start location : 3
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 93
+
+Start location : 93
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 3
+
+Start location : 3
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : R
+Location reached : 4
+
+Start location : 4
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  SAP2, SAP3, SAP4, 
+Direction Taken : D
+Location reached : 14
+
+Start location : 14
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 24
+
+Start location : 24
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 34
+
+Start location : 34
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 44
+
+Start location : 44
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 54
+
+Start location : 54
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 64
+
+Start location : 64
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 74
+
+Start location : 74
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 84
+
+Start location : 84
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 74
+
+Start location : 74
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 64
+
+Start location : 64
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 54
+
+Start location : 54
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 44
+
+Start location : 44
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 34
+
+Start location : 34
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 24
+
+Start location : 24
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 14
+
+Start location : 14
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 4
+
+Start location : 4
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 94
+
+Start location : 94
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 4
+
+Start location : 4
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : R
+Location reached : 5
+
+Start location : 5
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  SAP5, SAP6, SAP7, 
+Direction Taken : D
+Location reached : 15
+
+Start location : 15
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 25
+
+Start location : 25
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 35
+
+Start location : 35
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 45
+
+Start location : 45
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 55
+
+Start location : 55
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 65
+
+Start location : 65
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 75
+
+Start location : 75
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 85
+
+Start location : 85
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 75
+
+Start location : 75
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 65
+
+Start location : 65
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 55
+
+Start location : 55
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 45
+
+Start location : 45
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 35
+
+Start location : 35
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 25
+
+Start location : 25
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 15
+
+Start location : 15
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 5
+
+Start location : 5
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 95
+
+Start location : 95
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 5
+
+Start location : 5
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : R
+Location reached : 6
+
+Start location : 6
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  SAP8, SAP9, RBS0, 
+Direction Taken : D
+Location reached : 16
+
+Start location : 16
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 26
+
+Start location : 26
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 36
+
+Start location : 36
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 46
+
+Start location : 46
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 56
+
+Start location : 56
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 66
+
+Start location : 66
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 76
+
+Start location : 76
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 86
+
+Start location : 86
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 76
+
+Start location : 76
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 66
+
+Start location : 66
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 56
+
+Start location : 56
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 46
+
+Start location : 46
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 36
+
+Start location : 36
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 26
+
+Start location : 26
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 16
+
+Start location : 16
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 6
+
+Start location : 6
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 96
+
+Start location : 96
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 6
+
+Start location : 6
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : R
+Location reached : 7
+
+Start location : 7
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  RBS1, RBS2, RBS3, 
+Direction Taken : D
+Location reached : 17
+
+Start location : 17
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 27
+
+Start location : 27
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 37
+
+Start location : 37
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 47
+
+Start location : 47
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 57
+
+Start location : 57
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 67
+
+Start location : 67
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 77
+
+Start location : 77
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 87
+
+Start location : 87
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 77
+
+Start location : 77
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 67
+
+Start location : 67
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 57
+
+Start location : 57
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 47
+
+Start location : 47
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 37
+
+Start location : 37
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 27
+
+Start location : 27
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 17
+
+Start location : 17
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 7
+
+Start location : 7
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 97
+
+Start location : 97
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 7
+
+Start location : 7
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : R
+Location reached : 8
+
+Start location : 8
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, 
+All available directions are : L, U, D,  
+All locations treasures are :  RBS4, RBS5, RBS6, 
+Direction Taken : D
+Location reached : 18
+
+Start location : 18
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 28
+
+Start location : 28
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 38
+
+Start location : 38
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 48
+
+Start location : 48
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 58
+
+Start location : 58
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 68
+
+Start location : 68
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 78
+
+Start location : 78
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 88
+
+Start location : 88
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 78
+
+Start location : 78
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 68
+
+Start location : 68
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 58
+
+Start location : 58
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 48
+
+Start location : 48
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 38
+
+Start location : 38
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 28
+
+Start location : 28
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 18
+
+Start location : 18
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 8
+
+Start location : 8
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : L, U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 98
+
+Start location : 98
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 8
+
+Start location : 8
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : L, U, D,  
+All locations treasures are :  
+Direction Taken : L
+Location reached : 7
+
+Start location : 7
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : L
+Location reached : 6
+
+Start location : 6
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : L
+Location reached : 5
+
+Start location : 5
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : L
+Location reached : 4
+
+Start location : 4
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : L
+Location reached : 3
+
+Start location : 3
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : L
+Location reached : 2
+
+Start location : 2
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : L
+Location reached : 1
+
+Start location : 1
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : L, R, U, D,  
+All locations treasures are :  
+Direction Taken : L
+Location reached : 0
+
+Start location : 0
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, 
+All available directions are : R, L, U, D,  
+All locations treasures are :  DIAM0, DIAM1, DIAM2, 
+Direction Taken : D
+Location reached : 10
+
+Start location : 10
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 20
+
+Start location : 20
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 30
+
+Start location : 30
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 40
+
+Start location : 40
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 50
+
+Start location : 50
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 60
+
+Start location : 60
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 70
+
+Start location : 70
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 80
+
+Start location : 80
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 70
+
+Start location : 70
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 60
+
+Start location : 60
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 50
+
+Start location : 50
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 40
+
+Start location : 40
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 30
+
+Start location : 30
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 20
+
+Start location : 20
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 10
+
+Start location : 10
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 0
+
+Start location : 0
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : R, L, U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 90
+
+Start location : 90
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 0
+
+Start location : 0
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : R, L, U, D,  
+All locations treasures are :  
+Direction Taken : L
+Location reached : 9
+
+Start location : 9
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, 
+All available directions are : R, U, D,  
+All locations treasures are :  RBS7, RBS8, RBS9, 
+Direction Taken : D
+Location reached : 19
+
+Start location : 19
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 29
+
+Start location : 29
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 39
+
+Start location : 39
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 49
+
+Start location : 49
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 59
+
+Start location : 59
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 69
+
+Start location : 69
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 79
+
+Start location : 79
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 89
+
+Start location : 89
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 79
+
+Start location : 79
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 69
+
+Start location : 69
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 59
+
+Start location : 59
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 49
+
+Start location : 49
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 39
+
+Start location : 39
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 29
+
+Start location : 29
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 19
+
+Start location : 19
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 9
+
+Start location : 9
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : R, U, D,  
+All locations treasures are :  
+Direction Taken : U
+Location reached : 99
+
+Start location : 99
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : D,  
+All locations treasures are :  
+Direction Taken : D
+Location reached : 9
+
+Start location : 9
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : R, U, D,  
+All locations treasures are :  
+Direction Taken : R
+Location reached : 0
+
+Start location : 0
+All player treasures are : DIAM3, DIAM4, DIAM5, DIAM6, DIAM7, DIAM8, DIAM9, SAP0, SAP1, SAP2, SAP3, SAP4, SAP5, SAP6, SAP7, SAP8, SAP9, RBS0, RBS1, RBS2, RBS3, RBS4, RBS5, RBS6, DIAM0, DIAM1, DIAM2, RBS7, RBS8, RBS9, 
+All available directions are : R, L, U, D,  
+All locations treasures are :  
+Direction Taken : R
+Location reached : 1
+
+All nodes explored
+
